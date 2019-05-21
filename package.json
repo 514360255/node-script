@@ -1,0 +1,23 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "自动打开本地文件脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/514360255/node-script.git"
+  },
+  "author": "郭郭",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/514360255/node-script/issues"
+  },
+  "homepage": "https://github.com/514360255/node-script#readme",
+  "dependencies": {
+    "node-windows": "^0.1.14",
+    "open": "^6.3.0"
+  }
+}
